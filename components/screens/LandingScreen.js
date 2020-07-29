@@ -1,0 +1,1 @@
+// main page has all information, videos and images on it and stack nav linked on all
