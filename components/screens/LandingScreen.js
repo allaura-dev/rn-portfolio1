@@ -1,1 +1,14 @@
-// main page has all information, videos and images on it and stack nav linked on all
+import React, { Component } from 'react';
+import { View, Text } from 'react-native';
+import '';
+
+
+export default class LandingScreen extends Component {
+    render() {
+        return (
+            <View>
+                <Text>Portfolio</Text>
+            </View>
+        )
+    } // render()
+} // class
